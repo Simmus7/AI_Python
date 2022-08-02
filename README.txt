@@ -1,0 +1,1 @@
+Summary of Google Colab Notebooks developed in the Artificial Intelligence subject of Computer Engineering studies at EIA University, teached by Isis Bonet Cruz
